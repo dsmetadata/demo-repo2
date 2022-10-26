@@ -42,6 +42,9 @@ git log //to see a history of commits (will show commit hash keys)
 
 
 Other material
+
 MV workshop video WK4D3
+
 https://app.codingrooms.com/
+
 https://www.youtube.com/watch?v=HfTXHrWMGVY&t=62s
