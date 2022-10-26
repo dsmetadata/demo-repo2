@@ -14,6 +14,17 @@ git init //to initialize a local repo in current dir
 git branch -M main
 git add . //add all files in current dir to the staging area so they can be tracked
 git commit //to add a check point selectively (?an image of current status of selected files in the repo?)
+git remote add "origin"  "web url (https)" or "ssh key"  //Link local repo to online repo. Origin is common naming convention for the remote location.
+git remote rm origin //to remove this link if required
+git push --set-upstream origin main //create a main branch in the remote repo
+
+
+//from this point on do not push to main branch
+
+git checkout -b  //checkout to move between new branches, -b "name" of branch to create a new branch locally
+
+
+
 
  using the following command
 git remote add "origin"  "web url (https)" or "ssh key"  //origin is common naming convention for the remote location
