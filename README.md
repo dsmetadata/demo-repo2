@@ -85,11 +85,14 @@ the email will send collaborators to the pull request tab, alternatively if you 
 
 select merge pull request & confirm merge //comments/reviews can be added before finalizing the merge
 
+
 #Delete Branch
+
 **Optional**
 git branch - d "branch name"
 
 #Add Collaborators
+
 head over to the settings page of the repo and select collaborators and add people
 once the collaborator accepts the invite they will be able to amend any branch in the repo
 
